@@ -13,11 +13,11 @@ With a few quick lines of code, you can get Rails and jWalker working in unison.
 
 First:
 
-    gem install j_walker
+    gem install j-walker
 
 ### Rails
 
-    config.gem 'j_walker'
+    config.gem 'j-walker', :lib => 'j_walker
 
 In the body of your layout (preferably the end):
 

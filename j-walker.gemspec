@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{j_walker}
+  s.name = %q{j-walker}
   s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "app/views/shared/_j_walker.html.erb",
-     "j_walker.gemspec",
+     "j-walker.gemspec",
      "lib/j_walker.rb",
      "rails/init.rb",
      "spec/j_walker_spec.rb",
@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
      "spec/spec_helper.rb",
      "src/j_walker.js"
   ]
-  s.homepage = %q{http://github.com/hsume2/j_walker}
+  s.homepage = %q{http://github.com/hsume2/j-walker}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}

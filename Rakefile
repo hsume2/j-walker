@@ -4,11 +4,11 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "j_walker"
+    gem.name = "j-walker"
     gem.summary = %Q{Modularize your *.js, the Rails way. Jaywalk your Rails routes.}
     gem.description = %Q{A way to run JavaScript based on Rails controller actions. This gives you the freedom to DRY up your JavaScript, or modularize code around REST resources, whatever you can think of!}
     gem.email = "henry@qlane.com"
-    gem.homepage = "http://github.com/hsume2/j_walker"
+    gem.homepage = "http://github.com/hsume2/j-walker"
     gem.authors = ["Henry Hsu"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "yard", ">= 0"

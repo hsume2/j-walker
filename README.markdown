@@ -78,6 +78,7 @@ This thing was developed test-first using [blue-ridge](http://github.com/relevan
 * Params-based routing (instead of just controller and action)
 * Route aliasing
 * Full-stack testing
+* jWalker sample app
 
 *****
 
